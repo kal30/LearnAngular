@@ -1,0 +1,8 @@
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\bin\Contacts.dll.config
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\bin\Contacts.dll
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\bin\Contacts.pdb
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\obj\Debug\Contacts.dll
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\krajamani\documents\visual studio 2013\Projects\Contacts\Contacts\bin\Microsoft.AspNet.FriendlyUrls.xml
